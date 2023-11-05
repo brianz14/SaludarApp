@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Saludar</string>
+    <string name="btnSaludar">Saludar</string>
+    <string name="txtNombre"></string>
+    <string name="lblTitulo">Introduce tu nombre</string>
+    <string name="txt_ext_app"></string>
 </resources>
